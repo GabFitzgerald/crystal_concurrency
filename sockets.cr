@@ -8,4 +8,7 @@ end
 # sleep 1.second
 
 # another way to do this
-Fiber.yield
+#
+
+# execute the spawned fiber forever
+sleep
